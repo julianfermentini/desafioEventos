@@ -1,0 +1,8 @@
+.cajita {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 2px solid rgb(0, 195, 255);
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  padding: 20px;
+}
